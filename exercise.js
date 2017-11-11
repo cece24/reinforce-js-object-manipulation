@@ -1,5 +1,5 @@
 var project = {
-  committee: ["Stella", "Salma", "Kai", "Cece"],
+  committee: ["Stella", "Salma", "Kai"],
   title: "Very Important Project",
   dueDate : "December 14, 2019",
   id: "3284",
